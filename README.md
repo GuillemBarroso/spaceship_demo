@@ -8,7 +8,7 @@ Main code taken from this [tutorial](https://www.youtube.com/watch?v=jO6qQDNa2UY
 Run
 
 ```py
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 and then start the game with
